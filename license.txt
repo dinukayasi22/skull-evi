@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crime Scene Skull
+* source:	https://sketchfab.com/3d-models/crime-scene-skull-5d96416529144c68998dd126bf0fa250
+* author:	Mirko Westermeier (https://sketchfab.com/memowe)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crime Scene Skull" (https://sketchfab.com/3d-models/crime-scene-skull-5d96416529144c68998dd126bf0fa250) by Mirko Westermeier (https://sketchfab.com/memowe) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
